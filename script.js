@@ -1,2 +1,2 @@
-const Name = "welcome to m web page"
+const Name = "welcome to my web page"
 alert(Name)
